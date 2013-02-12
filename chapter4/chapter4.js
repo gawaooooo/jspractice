@@ -1,6 +1,6 @@
-// 4.2 ŠÖ”ƒŠƒeƒ‰ƒ‹
+// 4.2 é–¢æ•°ãƒªãƒ†ãƒ©ãƒ«
 
-// add‚Æ‚¢‚¤•Ï”‚ð’è‹`‚µA2‚Â‚Ì’l‚ð‰ÁŽZ‚·‚éŠÖ”‚ðŠi”[‚·‚é
+// addã¨ã„ã†å¤‰æ•°ã‚’å®šç¾©ã—ã€2ã¤ã®å€¤ã‚’åŠ ç®—ã™ã‚‹é–¢æ•°ã‚’æ ¼ç´ã™ã‚‹
 var add = function(a, b) {
 	return a + b;
 };
